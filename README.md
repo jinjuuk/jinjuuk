@@ -24,7 +24,7 @@ I'm a Data-Driven AI Robotics Engineer passionate about merging AI and robotics 
 - **Development Tools**: Ubuntu
 
 ### 🚀 Featured Projects:
-- **[Development of Service Robots and AI Autonomous Driving for Unmanned Ice Cream Stores](#)**: A project focused on integrating various advanced technologies such as robotics, artificial intelligence, and computer vision to develop service robots and AI autonomous driving systems for unmanned ice cream stores, where humans and robots interact.
+- **[Development of Service Robots and AI Autonomous Driving for Unmanned Ice Cream Stores]**: A project focused on integrating various advanced technologies such as robotics, artificial intelligence, and computer vision to develop service robots and AI autonomous driving systems for unmanned ice cream stores, where humans and robots interact.
 - **[Robot Car Driving Simulation and Object Detection Project](#)**: In this project, the robot car ultimately recognizes objects through an internal camera, while an external camera detects hand gestures to control the driving of the robot car.
 - **[Telecom Customer Churn Prediction Project](#)**: This project focuses on predicting customer churn for a telecom company, using third-quarter data to make predictions and validating the churn prediction model for the fourth quarter.
 
